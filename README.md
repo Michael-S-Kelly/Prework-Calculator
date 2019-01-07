@@ -13,14 +13,14 @@ Upon completion, your calculator should contain the following:
 
 Inside the Program.cs file of your console application you should have 4 external methods plus the Main method:
 Add()
-!screenshot(addition.png)
+![screenshot](addition.png)
 Subtract()
-!screenshot(subtraction.png)
+![screenshot](subtraction.png)
 Multiply()
-!screenshot(multiplication.png)
+![screenshot](multiplication.png)
 Divide()
-!screenshot(divide_even.png)
-!screenshot(divide_remainder.png)
+![screenshot](divide_even.png)
+![screenshot](divide_remainder.png)
 Each of these methods should take in 2 parameters, and return the solution of those 2 numbers. (i.e if you are adding 2 numbers than your return would be the sum of the 2 numbers added together. )
 
 Output to the console the answer to the proposed math problem.
