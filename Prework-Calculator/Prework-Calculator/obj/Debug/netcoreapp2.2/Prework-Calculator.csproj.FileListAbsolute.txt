@@ -1,0 +1,11 @@
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.csprojAssemblyReference.cache
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.csproj.CoreCompileInputs.cache
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.AssemblyInfoInputs.cache
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.AssemblyInfo.cs
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp2.2\Prework-Calculator.deps.json
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp2.2\Prework-Calculator.runtimeconfig.json
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp2.2\Prework-Calculator.runtimeconfig.dev.json
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp2.2\Prework-Calculator.dll
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp2.2\Prework-Calculator.pdb
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.dll
+\\Mac\Home\codefellows\401\week1\00lab\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.pdb
